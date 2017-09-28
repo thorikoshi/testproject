@@ -1,4 +1,6 @@
 # testproject
 
-テストです
+![Alt text](status.svg)
 
+
+テストです
